@@ -1,4 +1,4 @@
-package com.demo.amitav.notesapp
+package com.demo.notesapp.notesapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

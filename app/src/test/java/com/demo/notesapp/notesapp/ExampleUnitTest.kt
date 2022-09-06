@@ -1,4 +1,4 @@
-package com.demo.amitav.notesapp
+package com.demo.notesapp.notesapp
 
 import org.junit.Test
 
